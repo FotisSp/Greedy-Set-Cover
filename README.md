@@ -16,6 +16,6 @@ or
 run the jar file using the command : java -jar greedySetCover.jar subSets[#].txt
 
 
-
+This project is a part of the Advanced Algorithms and Data Structures subject at the University of Ioannina
 
 
