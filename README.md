@@ -1,4 +1,4 @@
-# Greedy-Set-Cover
+# Greedy Set Cover
 
 ### **Problem Definition**
 
